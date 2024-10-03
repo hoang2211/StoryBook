@@ -96,7 +96,7 @@ const Login = () => {
 
             <button
               type="submit"
-              className="btn-primary btn-light"
+              className="btn-primary btn-lig  ht"
               onClick={() => {
                 navigate("/signUp");
               }}
